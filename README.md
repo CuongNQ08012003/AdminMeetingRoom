@@ -61,3 +61,7 @@ MeetingHub là một ứng dụng web hiện đại giúp quản lý phòng họ
 1. Đăng nhập với tài khoản admin
 2. Chọn tab "Quản lý phòng họp"
 3. Thêm, sửa, xóa phòng họp
+
+Câu lệnh:
+1. npm i
+2. npm run dev
